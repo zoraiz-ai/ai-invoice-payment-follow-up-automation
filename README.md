@@ -70,7 +70,7 @@ It reduces manual invoice follow-ups and helps businesses maintain a consistent 
 ![n8n Workflow](01-n8n-invoice-payment-follow-up-workflow.jpg)
 
 ### Google Sheets Invoice Tracker
-![Google Sheets Tracker](02-google-sheets-invoice-payment-tracker.jpg)
+![Google Sheets Tracker](02-google-sheets-invoice-payment-tracke.jpg)
 
 ### Automated Urgent Payment Reminder
 ![Urgent Payment Reminder](03-automated-urgent-payment-reminder-email.jpg)
