@@ -78,13 +78,6 @@ It reduces manual invoice follow-ups and helps businesses maintain a consistent 
 ### Published n8n Automation
 ![Published Workflow](04-n8n-published-invoice-automation.jpg)
 
-## Workflow File
-
-The n8n workflow JSON file is included in this repository:
-
-`ai-invoice-payment-follow-up-automation.json`
-
-> Before importing the workflow, configure your own Google Sheets and Gmail credentials in n8n.
 
 ## Security
 
